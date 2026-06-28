@@ -1,0 +1,32 @@
+{
+  "s1": {
+    "available": false,
+    "fail_count": 10,
+    "last_fail": "2026-06-26T22:49:47.443974"
+  },
+  "s2": {
+    "available": true,
+    "fail_count": 0,
+    "last_fail": null
+  },
+  "s3": {
+    "available": true,
+    "fail_count": 0,
+    "last_fail": null
+  },
+  "s4": {
+    "available": false,
+    "fail_count": 22,
+    "last_fail": "2026-06-27T00:22:32.743041"
+  },
+  "s5": {
+    "available": true,
+    "fail_count": 0,
+    "last_fail": null
+  },
+  "s6": {
+    "available": true,
+    "fail_count": 0,
+    "last_fail": null
+  }
+}
